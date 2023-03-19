@@ -1,0 +1,6 @@
+﻿  EngineC++.cpp
+C:\Users\User\Documents\ESGI 5eme année\EngineC++\Enginec++2\EngineC++\EngineC++\EngineC++\Behaviour.h(8,3): warning C4091: '__declspec(dllexport)' : ignoré à gauche de 'Behaviour' quand aucune variable n'est déclarée
+  Factory.cpp
+C:\Users\User\Documents\ESGI 5eme année\EngineC++\Enginec++2\EngineC++\EngineC++\EngineC++\Behaviour.h(8,3): warning C4091: '__declspec(dllexport)' : ignoré à gauche de 'Behaviour' quand aucune variable n'est déclarée
+  Génération de code en cours...
+  EngineC++.vcxproj -> C:\Users\User\Documents\ESGI 5eme année\EngineC++\Enginec++2\EngineC++\EngineC++\x64\Debug\EngineC++.exe
